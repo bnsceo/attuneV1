@@ -1,0 +1,6 @@
+{
+  "name": "Attune",
+  "description": "An immersive, real-time AI-powered vocal harmonizer and voice modeling studio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
